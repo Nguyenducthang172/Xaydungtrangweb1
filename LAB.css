@@ -1,0 +1,7 @@
+.sanpham{
+    display: flex;
+}
+.sanpham .info{
+    float: left;
+    padding-left: 20px;
+}
